@@ -1,0 +1,9 @@
+Basic Git Commands
+
+git clone = copy a repository from GitHub to local machine
+git status = show changed files
+git add . = stage changes
+git commit -m "message" = save changes locally
+git push = send changes to GitHub
+git pull = get latest changes from GitHub
+git checkout -b branch-name = create and switch to a new branch
